@@ -83,7 +83,7 @@ p {
     font-weight: 600;
     background-color: #7CFC00;
     cursor: pointer;
-    outline: none;
+    color: #ffffff;
 }
 
 h1, h2, p, #seccoundButton {
